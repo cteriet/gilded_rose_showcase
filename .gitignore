@@ -5,3 +5,12 @@ obj
 vendor
 .idea
 *.iml
+
+*.pyc
+.cache
+.coverage
+.idea/
+*.iml
+
+venv_gilded_rose/
+*.egg-info
