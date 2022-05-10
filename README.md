@@ -34,4 +34,6 @@ flake8 src
 ## Running a simulation/exploratory test
 To output a simulation of N days of the Gilded Rose inventory, do:
 
-``py .\test\texttest_fixture.py``
+``py .\test\texttest_fixture.py N``
+
+where N is the number of simulated days
